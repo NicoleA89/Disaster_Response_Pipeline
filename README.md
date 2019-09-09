@@ -17,18 +17,18 @@ In this project various disaster messages were investigated. A model for an API 
 ## Files
 These are thee main folders:
 
-1. Data
-disaster_categories.csv (dataset with all categories)
-disaster_messages.csv (dataset with all messages)
-process_data.py (ETL pipeline to extract, clean, merge and save data into a database)
-DisasterResponse.db (result from ETL pipeline)
+### 1. Data
+- disaster_categories.csv (dataset with all categories)
+- disaster_messages.csv (dataset with all messages)
+- process_data.py (ETL pipeline to extract, clean, merge and save data into a database)
+- DisasterResponse.db (result from ETL pipeline)
 
-2. Models
-train_classifier.py (machine learning pipeline to train and export classifier)
-classifier.pkl (result from machine learning pipeline)
+### 2. Models
+- train_classifier.py (machine learning pipeline to train and export classifier)
+- classifier.pkl (result from machine learning pipeline)
 
-3. App
-run.py (flask file to run web application)
+### 3. App
+- run.py (flask file to run web application)
 
 ## Acknowledgements
 I thank Figure Eight for providing the data and Udacity for the advice and review.
