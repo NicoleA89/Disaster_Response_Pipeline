@@ -13,3 +13,13 @@ In this project various disaster messages were investigated. A model for an API 
 ![Messages_by genre](/images/Messages_Genre.png)
 
 ![Messages_by category](/images/Messages_category.png)
+
+## Files
+ETL Pipeline
+ML Pipeline
+Process_Data
+Train_Classifier
+
+## Acknowledgements
+Figure Eight
+Udacity
